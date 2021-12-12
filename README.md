@@ -1,2 +1,2 @@
-# m4l_drunkard
+# Max for Live Drunkard
 A Max for Live random note generator
